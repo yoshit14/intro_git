@@ -1,2 +1,4 @@
-基本的なtsuika
-tuika 変更
+Gitの練習をしてきます。
+基本的なワークフローを学びます。
+/ git add
+/ git commit

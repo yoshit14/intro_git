@@ -3,7 +3,6 @@
 tuika 変更
 gitを追加　0708
 commit 確認
-=======
 Gitの練習をしてきます。
 基本的なワークフローを学びます。
 / git add .
@@ -11,4 +10,3 @@ Gitの練習をしてきます。
 / git rm .
 / git status
 / git diff
->>>>>>> 30ea88c4412b08bc78153b6f8b3463d4c26c7f26

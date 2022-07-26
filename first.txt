@@ -5,4 +5,4 @@ Gitの練習をしてきます。
 / git rm .
 / git status
 / git diff
-/ git diff２
+/ from origin

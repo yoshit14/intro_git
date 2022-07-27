@@ -6,3 +6,5 @@ Gitの練習をしてきます。
 / git status
 / git diff
 / from origin
+/ aaa-001d
+/ aaa-001d-02

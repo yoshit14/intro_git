@@ -10,3 +10,4 @@ Gitの練習をしてきます。
 / aaa-001d-02
 / aaa-001d-03 pull request3
 / ★git上から修正
+/ ★git上から修正２
